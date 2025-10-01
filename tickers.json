@@ -1,0 +1,119 @@
+[
+    {
+        "ticker_symbol": "AAPL", "company_name": "Apple Inc.", "exchange": "NASDAQ", "sector": "Technology", "industry": "Consumer Electronics", "country": "USA", "currency": "USD"
+    },
+    {
+        "ticker_symbol": "9048.T", "company_name": "Nagoya Railroad Co., Ltd.", "exchange": "TSE", "sector": "Transportation", "industry": "Railways", "country": "Japan", "currency": "JPY"
+    },
+    {
+        "ticker_symbol": "^N225", "company_name": "Nikkei 225", "exchange": "INDEX", "sector": "Index", "industry": "Market Index", "country": "Japan", "currency": "JPY"
+    },
+    {
+        "ticker_symbol": "^TPX", "company_name": "TOPIX", "exchange": "INDEX", "sector": "Index", "industry": "Market Index", "country": "Japan", "currency": "JPY"
+    },
+    {
+        "ticker_symbol": "^GSPC", "company_name": "S&P 500", "exchange": "INDEX", "sector": "Index", "industry": "Market Index", "country": "USA", "currency": "USD"
+    },
+    {
+        "ticker_symbol": "^DJI", "company_name": "Dow Jones Industrial Average", "exchange": "INDEX", "sector": "Index", "industry": "Market Index", "country": "USA", "currency": "USD"
+    },
+    {
+        "ticker_symbol": "JPY=X", "company_name": "USD/JPY Exchange Rate", "exchange": "CURRENCY", "sector": "Currency", "industry": "FX Rate", "country": "N/A", "currency": "JPY"
+    },
+    {
+        "ticker_symbol": "^TNX", "company_name": "US 10-Year Treasury Yield", "exchange": "INDEX", "sector": "Bond", "industry": "Interest Rate", "country": "USA", "currency": "USD"
+    },
+    {
+        "ticker_symbol": "^VIX", "company_name": "CBOE Volatility Index", "exchange": "INDEX", "sector": "Index", "industry": "Volatility", "country": "USA", "currency": "USD"
+    },
+    {
+        "ticker_symbol": "CL=F", "company_name": "Crude Oil WTI Futures", "exchange": "COMMODITY", "sector": "Energy", "industry": "Futures", "country": "N/A", "currency": "USD"
+    },
+    {
+        "ticker_symbol": "4502.T", "company_name": "Takeda Pharmaceutical", "exchange": "TSE", "sector": "N/A", "industry": "N/A", "country": "Japan", "currency": "JPY"
+    },
+    {
+        "ticker_symbol": "6501.T", "company_name": "Hitachi", "exchange": "TSE", "sector": "N/A", "industry": "N/A", "country": "Japan", "currency": "JPY"
+    },
+    {
+        "ticker_symbol": "6674.T", "company_name": "GS Yuasa", "exchange": "TSE", "sector": "N/A", "industry": "N/A", "country": "Japan", "currency": "JPY"
+    },
+    {
+        "ticker_symbol": "6723.T", "company_name": "Renesas Electronics", "exchange": "TSE", "sector": "N/A", "industry": "N/A", "country": "Japan", "currency": "JPY"
+    },
+    {
+        "ticker_symbol": "6758.T", "company_name": "Sony", "exchange": "TSE", "sector": "N/A", "industry": "N/A", "country": "Japan", "currency": "JPY"
+    },
+    {
+        "ticker_symbol": "6902.T", "company_name": "Denso Corp", "exchange": "TSE", "sector": "N/A", "industry": "N/A", "country": "Japan", "currency": "JPY"
+    },
+    {
+        "ticker_symbol": "6971.T", "company_name": "Kyocera", "exchange": "TSE", "sector": "N/A", "industry": "N/A", "country": "Japan", "currency": "JPY"
+    },
+    {
+        "ticker_symbol": "6981.T", "company_name": "Murata Manufacturing", "exchange": "TSE", "sector": "N/A", "industry": "N/A", "country": "Japan", "currency": "JPY"
+    },
+    {
+        "ticker_symbol": "8035.T", "company_name": "Tokyo Electron", "exchange": "TSE", "sector": "N/A", "industry": "N/A", "country": "Japan", "currency": "JPY"
+    },
+    {
+        "ticker_symbol": "7203.T", "company_name": "Toyota Motor", "exchange": "TSE", "sector": "N/A", "industry": "N/A", "country": "Japan", "currency": "JPY"
+    },
+    {
+        "ticker_symbol": "7272.T", "company_name": "Yamaha Motor", "exchange": "TSE", "sector": "N/A", "industry": "N/A", "country": "Japan", "currency": "JPY"
+    },
+    {
+        "ticker_symbol": "9432.T", "company_name": "NTT", "exchange": "TSE", "sector": "N/A", "industry": "N/A", "country": "Japan", "currency": "JPY"
+    },
+    {
+        "ticker_symbol": "9433.T", "company_name": "KDDI", "exchange": "TSE", "sector": "N/A", "industry": "N/A", "country": "Japan", "currency": "JPY"
+    },
+    {
+        "ticker_symbol": "9984.T", "company_name": "SoftBank Group", "exchange": "TSE", "sector": "N/A", "industry": "N/A", "country": "Japan", "currency": "JPY"
+    },
+    {
+        "ticker_symbol": "8306.T", "company_name": "Mitsubishi UFJ", "exchange": "TSE", "sector": "N/A", "industry": "N/A", "country": "Japan", "currency": "JPY"
+    },
+    {
+        "ticker_symbol": "8591.T", "company_name": "Orix", "exchange": "TSE", "sector": "N/A", "industry": "N/A", "country": "Japan", "currency": "JPY"
+    },
+    {
+        "ticker_symbol": "2002.T", "company_name": "Nisshin Seifun Group", "exchange": "TSE", "sector": "N/A", "industry": "N/A", "country": "Japan", "currency": "JPY"
+    },
+    {
+        "ticker_symbol": "2802.T", "company_name": "Ajinomoto", "exchange": "TSE", "sector": "N/A", "industry": "N/A", "country": "Japan", "currency": "JPY"
+    },
+    {
+        "ticker_symbol": "4751.T", "company_name": "CyberAgent", "exchange": "TSE", "sector": "N/A", "industry": "N/A", "country": "Japan", "currency": "JPY"
+    },
+    {
+        "ticker_symbol": "4755.T", "company_name": "Rakuten", "exchange": "TSE", "sector": "N/A", "industry": "N/A", "country": "Japan", "currency": "JPY"
+    },
+    {
+        "ticker_symbol": "6098.T", "company_name": "Recruit Holdings", "exchange": "TSE", "sector": "N/A", "industry": "N/A", "country": "Japan", "currency": "JPY"
+    },
+    {
+        "ticker_symbol": "7974.T", "company_name": "Nintendo", "exchange": "TSE", "sector": "N/A", "industry": "N/A", "country": "Japan", "currency": "JPY"
+    },
+    {
+        "ticker_symbol": "5019.T", "company_name": "Idemitsu Kosan", "exchange": "TSE", "sector": "N/A", "industry": "N/A", "country": "Japan", "currency": "JPY"
+    },
+    {
+        "ticker_symbol": "8031.T", "company_name": "Mitsui & Co.", "exchange": "TSE", "sector": "N/A", "industry": "N/A", "country": "Japan", "currency": "JPY"
+    },
+    {
+        "ticker_symbol": "7011.T", "company_name": "Mitsubishi Heavy Industries", "exchange": "TSE", "sector": "N/A", "industry": "N/A", "country": "Japan", "currency": "JPY"
+    },
+    {
+        "ticker_symbol": "7013.T", "company_name": "IHI", "exchange": "TSE", "sector": "N/A", "industry": "N/A", "country": "Japan", "currency": "JPY"
+    },
+    {
+        "ticker_symbol": "7012.T", "company_name": "Kawasaki Heavy Industries", "exchange": "TSE", "sector": "N/A", "industry": "N/A", "country": "Japan", "currency": "JPY"
+    },
+    {
+        "ticker_symbol": "7832.T", "company_name": "Bandai Namco", "exchange": "TSE", "sector": "N/A", "industry": "N/A", "country": "Japan", "currency": "JPY"
+    },
+    {
+        "ticker_symbol": "9502.T", "company_name": "Chubu Electric Power", "exchange": "TSE", "sector": "N/A", "industry": "N/A", "country": "Japan", "currency": "JPY"
+    }
+]

@@ -1,0 +1,17 @@
+pandas
+lightgbm
+scikit-learn
+matplotlib
+seaborn
+joblib
+paramiko==2.12.0
+yfinance
+pandas-datareader
+pandas-ta
+gspread
+google-auth-oauthlib
+tabulate
+scipy
+optuna
+scikit-learn-intelex
+pytest

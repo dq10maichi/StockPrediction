@@ -1,0 +1,22 @@
+# Git
+.git
+.gitignore
+
+# Docker
+Dockerfile
+.dockerignore
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs and predictions
+logs/
+predictions/
+plots/
+
+# Local files
+stock_data.db
