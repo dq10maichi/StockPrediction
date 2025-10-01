@@ -45,8 +45,8 @@
 1.  **リポジトリをクローン**
 
     ```bash
-    git clone <repository-url>
-    cd stockPred
+    git clone git@github.com:dq10maichi/StockPrediction.git
+    cd stockPrediction
     ```
 
 2.  **Dockerイメージのビルド**
