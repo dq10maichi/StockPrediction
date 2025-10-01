@@ -7,8 +7,8 @@
 まず、プロジェクトのリポジトリをローカル環境にクローンします。
 
 ```bash
-git clone <repository-url> # ここを実際のリポジトリURLに置き換えてください
-cd stockPred
+git clone git@github.com:dq10maichi/StockPrediction.git
+cd stockPrediction
 ```
 
 ## 2. Dockerイメージのビルド
